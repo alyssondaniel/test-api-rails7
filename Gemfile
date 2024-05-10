@@ -45,3 +45,18 @@ group :development do
   # gem "spring"
 end
 
+
+gem "devise", "~> 4.9"
+
+gem "devise-jwt", "~> 0.11.0"
+
+gem "jsonapi-serializer", "~> 2.2"
+
+gem "rswag", "~> 2.13"
+
+gem "rspec-rails", "~> 6.1"
+
+gem "rubocop", "~> 1.63"
+
+gem "rubocop-rails", "~> 2.24"
+gem "rubocop-rspec", "~> 2.29"
